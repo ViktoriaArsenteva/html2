@@ -91,11 +91,31 @@ legend {
 	padding-top: 32px;
   padding-right: 201px;
 	padding-bottom: 5px;
-  padding-left: 1px;
+    padding-left: 500px;
 }
 .top {
-    padding-top: 189px;
-    padding-right: 14px;
+    padding-top: 50px;
+    padding-right: 201px;
     padding-bottom: 251px;
-    padding-left: 1px;
+    padding-left: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.h1_top {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.img {
+    display: flex;
+    justify-content: flex-end;
+}
+.buttons {
+    display: flex;
+    justify-content: flex-start;
 }
